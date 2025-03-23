@@ -14,5 +14,5 @@
 
 🛠️ Tech Stack
 **🔹 **Frontend: HTML, CSS, JavaScript**
-🔹** API: OpenWeatherMap API** .
+🔹** API: **OpenWeatherMap API****
 
